@@ -12,13 +12,13 @@
     <ListView
         android:layout_weight="8"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:id="@+id/lv1"/>
 
     <Button
         android:layout_weight="1"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         android:id="@+id/btnTambah"
         android:text="btnTambah"/>
     <Button
@@ -27,6 +27,6 @@
         android:layout_weight="1"
         android:backgroundTint="#F00"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="0dp"/>
 
 </LinearLayout>
